@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--<h1 align="center">Hi 👋, I'm Deepanshu Garkoti</h1>
+<h1 align="center">Hi 👋, I'm Deepanshu Garkoti</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepanshu-tech7" alt="deepanshu-tech7" /></a> </p>
@@ -24,7 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshu-tech7&show_icons=true&locale=en&layout=compact" alt="deepanshu-tech7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshu-tech7&show_icons=true&locale=en" alt="deepanshu-tech7" /></p>
-
-**Deepanshu-tech7/Deepanshu-tech7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
