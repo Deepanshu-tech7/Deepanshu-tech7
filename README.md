@@ -1,24 +1,69 @@
-<h1 align="center">Hi 👋, I'm Deepanshu Garkoti</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+# Hi, I'm Deepanshu Garkoti 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepanshu-tech7" alt="deepanshu-tech7" /></a> </p>
+🎓 Final-Year AI & ML Student
+📊 Aspiring Data Analyst
+📍 Uttarakhand, India
 
-- 🔭 I’m currently working on **AI Projects**
+## About Me
 
-- 🌱 I’m currently learning **Open CV**
+I am passionate about transforming raw data into meaningful insights that support better decision-making. I enjoy working with data analysis, visualization, and machine learning projects.
 
-- 👯 I’m looking to collaborate on **meaningful projects**
+- 📈 Data Analysis & Visualization
+- 🐍 Python Programming
+- 🗄️ SQL Database Management
+- 📊 Power BI Dashboards
+- 📑 Microsoft Excel
+- 🤖 Machine Learning Fundamentals
 
-- 📫 How to reach me **garkotideepanshu173@gmail.com**
+## Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/deepanshugarkoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/deepanshugarkoti" height="30" width="40" /></a>
-</p>
+### Programming & Analytics
+- Python
+- SQL
+- Excel
+- Power BI
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Libraries
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshu-tech7&show_icons=true&locale=en&layout=compact" alt="deepanshu-tech7" /></p>
+### Tools
+- Jupyter Notebook
+- Git & GitHub
+- VS Code
+- MySQL
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshu-tech7&show_icons=true&locale=en" alt="deepanshu-tech7" /></p>
+## Projects
+
+### 📊 Customer Churn Analysis
+- Analyzed customer behavior patterns.
+- Built predictive models to identify churn risk.
+- Created visual dashboards for insights.
+
+### 🎬 Netflix Dashboard
+- Interactive Power BI dashboard.
+- Visualized content trends, ratings, and genres.
+- Provided business insights through data visualization.
+
+### 📈 Sales Data Analysis
+- Cleaned and analyzed sales datasets.
+- Identified key performance indicators (KPIs).
+- Generated actionable recommendations.
+
+## Education
+
+**B.Tech in Artificial Intelligence & Machine Learning**
+Dr. A.P.J. Abdul Kalam Institute of Technology
+
+## Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- Email: your.email@example.com
+
+---
+
+⭐ Always learning, building, and exploring the world of Data Analytics.
