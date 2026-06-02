@@ -3,12 +3,11 @@
 🎓 Final-Year AI & ML Student
 📊 Aspiring Data Analyst
 📍 Uttarakhand, India
-        
-## About Me
+
+## About Me 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 I am passionate about transforming raw data into meaningful insights that support better decision-making. I enjoy working with data analysis, visualization, and machine learning projects.
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 📈 Data Analysis & Visualization
 - 🐍 Python Programming
 - 🗄️ SQL Database Management
