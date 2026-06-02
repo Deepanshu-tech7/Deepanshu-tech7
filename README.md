@@ -3,7 +3,7 @@
 🎓 Final-Year AI & ML Student
 📊 Aspiring Data Analyst
 📍 Uttarakhand, India
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 ## About Me
 
@@ -35,7 +35,7 @@ I am passionate about transforming raw data into meaningful insights that suppor
 - Jupyter Notebook
 - Git & GitHub
 - VS Code
-- MySQL
+- PostgreSql
 
 ## Projects
 
@@ -63,7 +63,7 @@ Dr. A.P.J. Abdul Kalam Institute of Technology
 
 - GitHub: https://github.com/YOUR_USERNAME
 - LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: your.email@example.com
+- Email: garkotideepanshu173@gmail.com
 
 ---
 
