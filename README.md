@@ -60,8 +60,8 @@ Dr. A.P.J. Abdul Kalam Institute of Technology
 
 ## Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- GitHub: https://github.com/Deepanshu-tech7
+- LinkedIn: linkedin.com/in/deepanshugarkoti
 - Email: garkotideepanshu173@gmail.com
 
 ---
